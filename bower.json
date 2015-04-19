@@ -1,0 +1,25 @@
+{
+  "name": "israel-cities",
+  "version": "0.0.3",
+  "homepage": "https://github.com/royts/israel-cities",
+  "authors": [
+    "Roy Tsabari <a300600@gmail.com>"
+  ],
+  "description": "List of cities in Israel - Hebrew and English",
+  "main": "israel-cities.json",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "israel",
+    "cities"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
