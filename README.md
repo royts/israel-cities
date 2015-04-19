@@ -1,6 +1,7 @@
 # israel-cities
-list if cities in israel
+List if cities in Israel
+updated for 2013
 
-source: http://gis.cbs.gov.il/Yeshuvim_allyears/
+source: http://www1.cbs.gov.il/ishuvim/ishuvim_main.htm
 
-key words for search: [רשימת ישובים, רשימת ערים, קובץ ערים, קובץ ישובים]
+key words for search: [רשימת ישובים, רשימת ערים, קובץ ערים, קובץ ישובים,רשימת ערים בישראל]
