@@ -3301,18 +3301,13 @@
   },
   {
     "id": 1200,
-    "name": "מודיעין-מכבים-רעות*",
+    "name": "מודיעין-מכבים-רעות",
     "engName": "MODI'IN-MAKKABBIM-RE'UT"
   },
   {
     "id": 1360,
-    "name": "מולדה*",
+    "name": "מולדה",
     "engName": "MOLADA*"
-  },
-  {
-    "id": 269,
-    "name": "מולדת",
-    "engName": "MOLEDET"
   },
   {
     "id": 208,
