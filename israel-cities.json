@@ -4295,6 +4295,11 @@
     "engName": "NAZERAT ILLIT"
   },
   {
+    "id": 854,
+    "name": "נצרת עלית",
+    "engName": "NAZERAT ILLIT"
+  },
+  {
     "id": 2500,
     "name": "נשר",
     "engName": "NESHER"
@@ -5388,11 +5393,6 @@
     "id": 3782,
     "name": "רותם",
     "engName": "ROTEM"
-  },
-  {
-    "id": 854,
-    "name": "רחוב",
-    "engName": "REHOV"
   },
   {
     "id": 8400,
