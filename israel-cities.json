@@ -1803,6 +1803,12 @@
     "id": 6400,
     "name": "הרצלייה",
     "engName": "HERZLIYYA"
+  }
+  ,
+  {
+    "id": 6400,
+    "name": "הרצליה",
+    "engName": "HERZLIYYA"
   },
   {
     "id": 1203,
@@ -3872,6 +3878,11 @@
   {
     "id": 9100,
     "name": "נהרייה",
+    "engName": "NAHARIYYA"
+  },
+    {
+    "id": 9100,
+    "name": "נהריה",
     "engName": "NAHARIYYA"
   },
   {
