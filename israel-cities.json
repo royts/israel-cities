@@ -3491,16 +3491,6 @@
     "engName": "MESILLAT ZIYYON"
   },
   {
-    "id": 748,
-    "name": "מסלול",
-    "engName": "MASLUL"
-  },
-  {
-    "id": 4203,
-    "name": "מסעדה",
-    "engName": "MAS'ADE"
-  },
-  {
     "id": 197,
     "name": "מעברות",
     "engName": "MA'BAROT"
@@ -5839,11 +5829,6 @@
     "id": 3649,
     "name": "שקד",
     "engName": "SHAQED"
-  },
-  {
-    "id": 1233,
-    "name": "שקף",
-    "engName": "SHEQEF"
   },
   {
     "id": 292,
