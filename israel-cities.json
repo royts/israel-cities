@@ -1,5 +1,10 @@
 [
   {
+    "id": 2660,
+    "name": "יבנה",
+    "engName": "YAVNE"
+  },
+  {
     "id": 472,
     "name": "אבו גוש",
     "engName": "ABU GHOSH"
@@ -2209,11 +2214,6 @@
     "id": 46,
     "name": "יבנאל",
     "engName": "YAVNE'EL"
-  },
-  {
-    "id": 2660,
-    "name": "יבנה",
-    "engName": "YAVNE"
   },
   {
     "id": 96,
