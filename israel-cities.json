@@ -5906,6 +5906,16 @@
     "engName": "TIROSH"
   },
   {
+    "id": 50002,
+    "name": "יפו",
+    "engName": "TEL AVIV - YAFO"
+  },
+  {
+    "id": 50001,
+    "name": "תל אביב",
+    "engName": "TEL AVIV - YAFO"
+  },
+  {
     "id": 5000,
     "name": "תל אביב -יפו",
     "engName": "TEL AVIV - YAFO"
