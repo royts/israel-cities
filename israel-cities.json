@@ -1,5 +1,10 @@
 [
   {
+    "id": 2660,
+    "name": "יבנה",
+    "engName": "YAVNE"
+  },
+  {
     "id": 472,
     "name": "אבו גוש",
     "engName": "ABU GHOSH"
@@ -155,11 +160,6 @@
     "engName": "UMM BATIN"
   },
   {
-    "id": 1108,
-    "name": "אומן",
-    "engName": "OMEN"
-  },
-  {
     "id": 680,
     "name": "אומץ",
     "engName": "OMEZ"
@@ -193,11 +193,6 @@
     "id": 780,
     "name": "אורה",
     "engName": "ORA"
-  },
-  {
-    "id": 2012,
-    "name": "אורות",
-    "engName": "OROT"
   },
   {
     "id": 4013,
@@ -680,11 +675,6 @@
     "engName": "BAHAN"
   },
   {
-    "id": 762,
-    "name": "בטחה",
-    "engName": "BITHA"
-  },
-  {
     "id": 234,
     "name": "ביצרון",
     "engName": "BIZZARON"
@@ -1110,11 +1100,6 @@
     "engName": "BAR'AM"
   },
   {
-    "id": 141,
-    "name": "ברק",
-    "engName": "BARAQ"
-  },
-  {
     "id": 617,
     "name": "ברקאי",
     "engName": "BARQAY"
@@ -1208,11 +1193,6 @@
     "id": 352,
     "name": "גבולות",
     "engName": "GEVULOT"
-  },
-  {
-    "id": 424,
-    "name": "גבים",
-    "engName": "GEVIM"
   },
   {
     "id": 86,
@@ -1345,11 +1325,6 @@
     "engName": "GEVAR'AM"
   },
   {
-    "id": 133,
-    "name": "גבת",
-    "engName": "GEVAT"
-  },
-  {
     "id": 35,
     "name": "גדות",
     "engName": "GADOT"
@@ -1448,11 +1423,6 @@
     "id": 393,
     "name": "גלאון",
     "engName": "GAL'ON"
-  },
-  {
-    "id": 3606,
-    "name": "גלגל",
-    "engName": "GILGAL"
   },
   {
     "id": 346,
@@ -1775,11 +1745,6 @@
     "engName": "HAYOGEV"
   },
   {
-    "id": 1208,
-    "name": "הילה",
-    "engName": "HILLA"
-  },
-  {
     "id": 377,
     "name": "המעפיל",
     "engName": "HAMA'PIL"
@@ -1822,6 +1787,12 @@
   {
     "id": 6400,
     "name": "הרצלייה",
+    "engName": "HERZLIYYA"
+  }
+  ,
+  {
+    "id": 64001,
+    "name": "הרצליה",
     "engName": "HERZLIYYA"
   },
   {
@@ -1910,11 +1881,6 @@
     "engName": "HAVAZZELET HASHARON"
   },
   {
-    "id": 1110,
-    "name": "חבר",
-    "engName": "HEVER"
-  },
-  {
     "id": 717,
     "name": "חגור",
     "engName": "HAGOR"
@@ -1988,11 +1954,6 @@
     "id": 374,
     "name": "חוקוק",
     "engName": "HUQOQ"
-  },
-  {
-    "id": 1303,
-    "name": "חורה",
-    "engName": "HURA"
   },
   {
     "id": 496,
@@ -2253,11 +2214,6 @@
     "id": 46,
     "name": "יבנאל",
     "engName": "YAVNE'EL"
-  },
-  {
-    "id": 2660,
-    "name": "יבנה",
-    "engName": "YAVNE"
   },
   {
     "id": 96,
@@ -3095,11 +3051,6 @@
     "engName": "LAVI"
   },
   {
-    "id": 1230,
-    "name": "לבנים",
-    "engName": "LIVNIM"
-  },
-  {
     "id": 2023,
     "name": "להב",
     "engName": "LAHAV"
@@ -3280,11 +3231,6 @@
     "engName": "MAGGAL"
   },
   {
-    "id": 695,
-    "name": "מגן",
-    "engName": "MAGEN"
-  },
-  {
     "id": 1155,
     "name": "מגן שאול",
     "engName": "MAGEN SHA'UL"
@@ -3316,18 +3262,13 @@
   },
   {
     "id": 1200,
-    "name": "מודיעין-מכבים-רעות*",
+    "name": "מודיעין-מכבים-רעות",
     "engName": "MODI'IN-MAKKABBIM-RE'UT"
   },
   {
     "id": 1360,
-    "name": "מולדה*",
+    "name": "מולדה",
     "engName": "MOLADA*"
-  },
-  {
-    "id": 269,
-    "name": "מולדת",
-    "engName": "MOLEDET"
   },
   {
     "id": 208,
@@ -3510,21 +3451,6 @@
     "engName": "MALKISHUA"
   },
   {
-    "id": 2030,
-    "name": "מנוחה",
-    "engName": "MENUHA"
-  },
-  {
-    "id": 1174,
-    "name": "מנוף",
-    "engName": "MANOF"
-  },
-  {
-    "id": 1205,
-    "name": "מנות",
-    "engName": "MANOT"
-  },
-  {
     "id": 48,
     "name": "מנחמיה",
     "engName": "MENAHEMYA"
@@ -3558,16 +3484,6 @@
     "id": 742,
     "name": "מסילת ציון",
     "engName": "MESILLAT ZIYYON"
-  },
-  {
-    "id": 748,
-    "name": "מסלול",
-    "engName": "MASLUL"
-  },
-  {
-    "id": 4203,
-    "name": "מסעדה",
-    "engName": "MAS'ADE"
   },
   {
     "id": 197,
@@ -3929,6 +3845,11 @@
     "name": "נהרייה",
     "engName": "NAHARIYYA"
   },
+    {
+    "id": 91001,
+    "name": "נהריה",
+    "engName": "NAHARIYYA"
+  },
   {
     "id": 4304,
     "name": "נוב",
@@ -4131,7 +4052,7 @@
   },
   {
     "id": 523,
-    "name": "ניין",
+    "name": "נין",
     "engName": "NEIN"
   },
   {
@@ -4310,6 +4231,11 @@
     "engName": "NAZERAT ILLIT"
   },
   {
+    "id": 854,
+    "name": "נצרת עלית",
+    "engName": "NAZERAT ILLIT"
+  },
+  {
     "id": 2500,
     "name": "נשר",
     "engName": "NESHER"
@@ -4473,16 +4399,6 @@
     "id": 737,
     "name": "עולש",
     "engName": "OLESH"
-  },
-  {
-    "id": 666,
-    "name": "עומר",
-    "engName": "OMER"
-  },
-  {
-    "id": 810,
-    "name": "עופר",
-    "engName": "OFER"
   },
   {
     "id": 32,
@@ -4718,11 +4634,6 @@
     "id": 1146,
     "name": "עלומים",
     "engName": "ALUMIM"
-  },
-  {
-    "id": 3765,
-    "name": "עלי",
-    "engName": "ELI"
   },
   {
     "id": 3727,
@@ -5030,11 +4941,6 @@
     "engName": "ZOFIT"
   },
   {
-    "id": 1150,
-    "name": "צופר",
-    "engName": "ZOFAR"
-  },
-  {
     "id": 1102,
     "name": "צוקי ים",
     "engName": "ZUQI YAM"
@@ -5210,6 +5116,11 @@
     "engName": "QAZRIN"
   },
   {
+    "id": 26201,
+    "name": "קריות",
+    "engName": "QIRYAT ONO"
+  },
+  {
     "id": 2620,
     "name": "קריית אונו",
     "engName": "QIRYAT ONO"
@@ -5293,11 +5204,6 @@
     "id": 3640,
     "name": "קרני שומרון",
     "engName": "QARNE SHOMERON"
-  },
-  {
-    "id": 4006,
-    "name": "קשת",
-    "engName": "QESHET"
   },
   {
     "id": 543,
@@ -5408,11 +5314,6 @@
     "id": 3782,
     "name": "רותם",
     "engName": "ROTEM"
-  },
-  {
-    "id": 854,
-    "name": "רחוב",
-    "engName": "REHOV"
   },
   {
     "id": 8400,
@@ -5730,16 +5631,6 @@
     "engName": "SHO'EVA"
   },
   {
-    "id": 761,
-    "name": "שובה",
-    "engName": "SHUVA"
-  },
-  {
-    "id": 394,
-    "name": "שובל",
-    "engName": "SHOVAL"
-  },
-  {
     "id": 1304,
     "name": "שוהם",
     "engName": "SHOHAM"
@@ -5935,11 +5826,6 @@
     "engName": "SHAQED"
   },
   {
-    "id": 1233,
-    "name": "שקף",
-    "engName": "SHEQEF"
-  },
-  {
     "id": 292,
     "name": "שרונה",
     "engName": "SHARONA"
@@ -5953,11 +5839,6 @@
     "id": 126,
     "name": "שריד",
     "engName": "SARID"
-  },
-  {
-    "id": 398,
-    "name": "שרשרת",
-    "engName": "SHARSHERET"
   },
   {
     "id": 1045,
@@ -6003,6 +5884,16 @@
     "id": 10,
     "name": "תירוש",
     "engName": "TIROSH"
+  },
+  {
+    "id": 50002,
+    "name": "יפו",
+    "engName": "TEL AVIV - YAFO"
+  },
+  {
+    "id": 50001,
+    "name": "תל אביב",
+    "engName": "TEL AVIV - YAFO"
   },
   {
     "id": 5000,
